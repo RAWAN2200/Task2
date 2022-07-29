@@ -1,0 +1,62 @@
+body{
+    font-family: arial;
+    font-size: 30px;
+    margin: 0;
+    background:#D4B9B5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.text-center{
+  color : black;
+  font-family: cursive;
+  font-weight: normal;
+
+}
+#textbox{
+
+  background:#D4B9B5;
+  width: 70vh;
+
+}
+#instructions{
+color: black;
+font-size: 20px;
+margin: 0;
+}
+#start-btn {
+    color:  white ;
+    text-align: meddle;
+    width: 100%;
+    background-color: #514545;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+#connect-usb{
+  color:  white ;
+  text-align: meddle;
+  width: 100%;
+  background-color: #514545;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+
+}
+
+
+height: 50px;
+min-width: 150px;
+border: none;
+border-radius: 10px;
+color: #eee;
+font-size: 40px;
+font-family: 'Cookie', cursive;
+position: relative;
+transition: 1s;
+display: flex;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+padding-top: 5px;
